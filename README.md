@@ -1,6 +1,12 @@
 # laravel 11 Reverb chat
 A real-time chat application built with Laravel and Reverb, offering instant messaging, user authentication, and a responsive UI. This project showcases how to integrate Laravel with modern chat features for seamless communication, message history, and a smooth user experience.  Let me know if you'd like to adjust any part of it!
 
+## Contact:
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:variyahardik11@gmail.com)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/hardik-variya)
+[![image](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/variyahardik)
+
+## Installation:
 
 ## Documents:
 
